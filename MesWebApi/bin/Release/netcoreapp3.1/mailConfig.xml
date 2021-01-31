@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<login>fiu.tee@yandex.ru</login>
+	<password>Fiute20292542001</password>
+	<server>
+		<adress>smtp.yandex.ru</adress>
+		<port>25</port>
+	</server>
+
+</configuration>

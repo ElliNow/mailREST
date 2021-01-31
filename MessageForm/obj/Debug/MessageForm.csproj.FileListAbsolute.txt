@@ -1,0 +1,15 @@
+C:\Users\Эля\source\repos\WebApi\MessageForm\bin\Debug\MessageForm.exe.config
+C:\Users\Эля\source\repos\WebApi\MessageForm\bin\Debug\MessageForm.exe
+C:\Users\Эля\source\repos\WebApi\MessageForm\bin\Debug\MessageForm.pdb
+C:\Users\Эля\source\repos\WebApi\MessageForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Эля\source\repos\WebApi\MessageForm\bin\Debug\RestSharp.dll
+C:\Users\Эля\source\repos\WebApi\MessageForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Эля\source\repos\WebApi\MessageForm\bin\Debug\RestSharp.xml
+C:\Users\Эля\source\repos\WebApi\MessageForm\obj\Debug\MessageForm.csprojAssemblyReference.cache
+C:\Users\Эля\source\repos\WebApi\MessageForm\obj\Debug\MessageForm.Form1.resources
+C:\Users\Эля\source\repos\WebApi\MessageForm\obj\Debug\MessageForm.Properties.Resources.resources
+C:\Users\Эля\source\repos\WebApi\MessageForm\obj\Debug\MessageForm.csproj.GenerateResource.cache
+C:\Users\Эля\source\repos\WebApi\MessageForm\obj\Debug\MessageForm.csproj.CoreCompileInputs.cache
+C:\Users\Эля\source\repos\WebApi\MessageForm\obj\Debug\MessageForm.csproj.CopyComplete
+C:\Users\Эля\source\repos\WebApi\MessageForm\obj\Debug\MessageForm.exe
+C:\Users\Эля\source\repos\WebApi\MessageForm\obj\Debug\MessageForm.pdb

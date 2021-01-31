@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<login></login>
+	<password></password>
+	<server>
+		<adress></adress>
+		<port></port>
+	</server>
+
+</configuration>

@@ -1,0 +1,8 @@
+C:\Users\Эля\source\repos\WebApi\MesWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\mailConfig.xml
+C:\Users\Эля\source\repos\WebApi\MesWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\MesWebApi.exe
+C:\Users\Эля\source\repos\WebApi\MesWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Эля\source\repos\WebApi\MesWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Эля\source\repos\WebApi\MesWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\MesWebApi.dll
+C:\Users\Эля\source\repos\WebApi\MesWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\MesWebApi.deps.json
+C:\Users\Эля\source\repos\WebApi\MesWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\MesWebApi.runtimeconfig.json
+C:\Users\Эля\source\repos\WebApi\MesWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\MesWebApi.pdb
